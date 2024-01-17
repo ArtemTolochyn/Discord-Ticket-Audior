@@ -1,0 +1,150 @@
+{
+  "token": "MTE5NjkyOTQxMTQ1NTQwNjI0MA.GW549s.hOBJ8qjDpWQukEQIotE5_ieINn7l3pvfUajhJw",
+
+  "memberJoin": {
+    "channel": "1191420851162198116",
+    "role": "1191421526893936721",
+
+    "title": "News user",
+    "body": "Welcome user {username} ({userid})\nYour welcome on **{server}**\nAccount created {date}",
+    "footer": "Now there are {count} of us on the server"
+  },
+
+  "memberLeave": {
+    "channel": "1191420851162198116",
+
+    "title": "Ohh no, bro why you give up?",
+    "body": "See you later user {username} ({userid})\nI h--hope i`ll see you again v-v",
+    "footer": "Now there are {count} of us on the server"
+  },
+
+  "ticketConfig": {
+    "adminUsers": "809526597115183134",
+    "moderators": "1196962144277778514",
+
+    "threadChannel": "1191420851162198116",
+    "threadAutoArchive": 1440,
+
+    "startMessage": {
+
+      "channel": "1191420851162198116",
+
+      "color": "0x44a3f2",
+
+      "title": "Support of PROJECT NAME",
+
+      "body": "To get quality help, select the category that best fits your question. Describe your request in detail - this will help us to better understand the situation and avoid unnecessary delays. If the ticket is inactive, it will be automatically closed within 24 hours. Please keep an eye on this and respond in a timely manner.",
+
+      "image": {
+        "url": "https://private-user-images.githubusercontent.com/146871074/286604535-302ef8f2-f7e0-40a7-b57e-8c196290660f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDU1MTUwMjEsIm5iZiI6MTcwNTUxNDcyMSwicGF0aCI6Ii8xNDY4NzEwNzQvMjg2NjA0NTM1LTMwMmVmOGYyLWY3ZTAtNDBhNy1iNTdlLThjMTk2MjkwNjYwZi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTE3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDExN1QxODA1MjFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xOTllNGRiOTUyYTA3M2FmYjMzYzU4MGEzYmQzYWY5MTRjMTY0M2RlMDgzMTFjMDE1NmYwZGNjMTkzNGY3Y2NlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.k4a1dlOv-IfPCSEssSVKOI2dMD-dzivYYhZf1wajlJE"
+      },
+
+      "footer": {
+        "text": "© Site of project: https://example.com",
+        "icon_url": ""
+      },
+
+      "FAQ": {
+        "color": "0xff007f",
+        "title": "",
+        "description": "```css\n[ TEXT ]```",
+        "url": "",
+        "author": {
+          "name": "FAQ - frequently asked questions",
+          "icon_url": "https://cdn-icons-png.flaticon.com/512/3409/3409564.png",
+          "url": "https://example.com"
+        },
+        "fields": [
+          {
+            "name": "TestData",
+            "value": "> Prototype",
+            "inline": false
+          },
+          {
+            "name": "TestData",
+            "value": "> Prototype",
+            "inline": false
+          }
+        ],
+        "thumbnail": {
+          "url": ""
+        },
+        "image": {
+          "url": ""
+        },
+        "footer": {
+          "text": "",
+          "icon_url": ""
+        }
+      },
+
+      "placeholder": "Select option",
+      "Items": {
+        "question": {
+          "label": "Custom question",
+          "description": "\n",
+          "moderators": "",
+          "Form": {
+            "question": {
+              "label": "Question",
+              "placeholder": "Write more about your question",
+              "style": "paragraph",
+              "min_length": 2,
+              "max_length": 512,
+              "required": true
+            }
+          }
+        },
+        "balance": {
+          "label": "Report player",
+          "description": "\n",
+          "moderators": "",
+          "Form": {
+            "username": {
+              "label": "Your nickname",
+              "placeholder": "Username",
+              "style": "short",
+              "min_length": 1,
+              "max_length": 20,
+              "required": true
+            },
+            "reportname": {
+              "label": "Nickname of another player",
+              "placeholder": "Username",
+              "style": "short",
+              "min_length": 2,
+              "max_length": 128,
+              "required": true
+            },
+            "reason": {
+              "label": "What`s happened",
+              "placeholder": "Your story",
+              "style": "short",
+              "min_length": 3,
+              "max_length": 20,
+              "required": true
+            }
+          }
+        }
+      }
+    },
+
+    "ticketMessage": {
+      "color": "0xff007f",
+      "title": "Ticket in category «{name}»",
+      "body": "Ahh. Again(",
+      "url": "",
+      "thumbnail": {
+        "url": ""
+      },
+      "default_avatar": "https://private-user-images.githubusercontent.com/146871074/286604535-302ef8f2-f7e0-40a7-b57e-8c196290660f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDU1MTUwMjEsIm5iZiI6MTcwNTUxNDcyMSwicGF0aCI6Ii8xNDY4NzEwNzQvMjg2NjA0NTM1LTMwMmVmOGYyLWY3ZTAtNDBhNy1iNTdlLThjMTk2MjkwNjYwZi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTE3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDExN1QxODA1MjFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xOTllNGRiOTUyYTA3M2FmYjMzYzU4MGEzYmQzYWY5MTRjMTY0M2RlMDgzMTFjMDE1NmYwZGNjMTkzNGY3Y2NlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.k4a1dlOv-IfPCSEssSVKOI2dMD-dzivYYhZf1wajlJE",
+
+      "closeTicket" : "Close ticket",
+      "ticketClosed" : "Ticket closed",
+
+      "take": "{user} take your ticket!",
+      "drop": "{user} drop your ticket, but wait, another moderator may take your ticket!"
+    }
+  }
+
+}

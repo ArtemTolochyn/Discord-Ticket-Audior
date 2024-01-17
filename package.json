@@ -1,0 +1,24 @@
+{
+  "name": "discordticketauditor",
+  "version": "1.0.0",
+  "description": "Discord Ticket & Audior is a versatile and user-friendly Discord bot designed to enhance the support experience for your Discord server. With its comprehensive features, SupportBot streamlines communication, provides quick access to information, and facilitates efficient ticket management. ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "ArtemTolochyn",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArtemTolochyn/Discord-Ticket-Audior.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ArtemTolochyn/Discord-Ticket-Audior/issues"
+  },
+  "homepage": "https://github.com/ArtemTolochyn/Discord-Ticket-Audior#readme"
+}
